@@ -16,7 +16,7 @@ Principais conceitos e metodologias aplicadas ao projeto:
 
 ## O projeto está disponível no github.
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://henriquegoldani.github.io/AluraMidi/)
 
 ## Tecnologias
 
